@@ -1,0 +1,1 @@
+﻿primary syntax color: `#A0EBDA`

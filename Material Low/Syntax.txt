@@ -1,0 +1,102 @@
+class name
+00FFFF18
+
+delegate name
+00FFFF18
+
+enum name
+00FFFF18
+
+interface name
+00FFFF18
+
+module name
+00FFFF18
+
+struct name
+00FFFF18
+
+type parameter name
+00FFFF18
+
+local name
+00FF88B3
+
+parameter name
+00FFB7D1
+
+method name
+007FE5FF
+
+extension method name
+007FE5FF
+
+property name
+00DAFF64
+
+namespace name
+00F0F0F0
+
+Keyword
+00FFB182
+
+String
+0081FFF4
+
+constant name
+00FF88B3
+
+field name
+00DAFF64
+
+operator - overloaded
+00AADCDC
+
+keyword - control
+00808AFF
+
+string - escape character
+0000FEE6
+
+string - verbatim
+0081FFF4
+
+Error Message
+001F31FF
+
+Error
+001F31FF
+
+String
+0081FFF4
+
+Keyword
+00FFB182
+
+Plain Text
+00DCDCDC
+
+Target Only
+00000000
+
+Source Only
+00000000
+
+Not Downloaded
+00999999
+
+Identical content
+00000000
+
+Even Row Items
+00000000
+
+Different content
+000014E5
+
+Odd Row Items
+00000000,02000000
+
+urlformat
+005C4D32
+
